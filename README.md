@@ -1,14 +1,14 @@
 ### Well, hay! Didn't see you there!
 
-The name's Leif. I'm a senior engineer from Cambridge, UK, working with nCipher Security to deliver trust, integrity and control to business critical information and applications.
+The name's Leif. I'm a senior engineer from Cambridge, UK, working with Entrust to secure a world in motion.
 
-I've developed secure systems that are deployed worldwide, with police forces and ambulance crews to airport security and military personnel; built functionality to protect financial transactions and driverless cars; and have led projects to eke every last drop of performance from legacy platforms with great success. Currently, I'm 'scrum master' for nCipher's 'Asgard' team, ensuring they have everything they need (and nothing they don't) to get the job done.
+I've developed secure systems that are deployed worldwide, with police forces and ambulance crews to airport security and military personnel; built functionality to protect financial transactions and driverless cars; and have led projects to eke every last drop of performance from legacy platforms with great success. Currently, I'm 'scrum master' for Entrust's _Asgard_ team, ensuring they have everything they need (and nothing they don't) to get the job done.
 
-Boring stuff aside, much of my 'public' work is mix of useful tools and _really dumb_ meme apps. 'Suddenly, Geese' is a reddit bot who's sole function is to 'honk' at other users, sometimes seductively, that gained several thousand in 'Karma' before its deactivation 48 hours later. Conversely, 'SSHamer' is a web application that maps SSH intrusion attempts against a web server, providing useful insights into the security of your machines.
+Boring stuff aside, much of my public work is mix of useful tools and _really dumb_ meme apps. _[Suddenly, Geese](https://github.com/ChampionOfGoats/suddenlygeese)_ is a reddit bot who's sole function is to 'honk' at other users, sometimes seductively, that gained several thousand in 'Karma' before its deactivation 48 hours later. Conversely, _[SSHamer](https://github.com/ChampionOfGoats/sshamer)_ is a web application that maps SSH intrusion attempts against a web server, providing an interesting visualisation of where attacks are originating from.
 
-In the last couple of years, I've had the pleasure and freedom to pick up and learn a lot of new tools and technology. Golang, Kotlin, Node and ASP.NET Core are all examples of tech I've had great fun playing with.
+In the last couple of years, I've had the pleasure and freedom to pick up and learn a lot of new tools and technology. Golang, [Swift](https://github.com/ChampionOfGoats/advent-of-code-2020), [Kotlin](https://github.com/ChampionOfGoats/advent-of-code), [Node](https://github.com/rpokemon/vote) and [ASP.NET Core](https://github.com/ChampionOfGoats/Flush) are all examples of tech I've had great fun playing with.
 
-I'm currently working on Flush, a tool for facilitating agile planning exercises in small distributed teams.
+I'm currently working on [Flush](https://github.com/ChampionOfGoats/Flush), a tool for facilitating agile planning exercises in small distributed teams.
 
 <!--
 **ChampionOfGoats/ChampionOfGoats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
